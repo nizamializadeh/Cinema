@@ -1,0 +1,10 @@
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.choseFilimcs.resources
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.exe.config
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.exe
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\bin\Debug\Cinema.pdb
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.exe
+c:\users\nizam_000\documents\visual studio 2017\Projects\Cinema\Cinema\obj\Debug\Cinema.pdb
